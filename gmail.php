@@ -1,7 +1,7 @@
 <?php
 
 $name = $_POST['name'];
-$visitor_email = $_POST['eamli'];
+$visitor_email = $_POST['eamil'];
 $message = $_POST['message'];
 
 $email_form = 'vishwakarma@shivam.com';
